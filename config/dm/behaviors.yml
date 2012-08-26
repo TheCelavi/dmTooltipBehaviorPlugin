@@ -1,0 +1,6 @@
+dmBehaviors:
+  dmTooltipBehavior:
+    section: Utility
+    name: Tooltip
+    form: dmTooltipBehaviorForm
+    view: dmTooltipBehaviorView

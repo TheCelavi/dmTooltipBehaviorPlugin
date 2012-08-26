@@ -1,0 +1,9 @@
+js:
+  dmTooltipBehaviorPlugin:
+    tooltip: jquery.tooltip.modified.min
+    dynamic: tooltip.dynamic.min
+    slide: tooltip.slide.min
+    launch: dmTooltipBehavior.min
+css:
+  dmTooltipBehaviorPlugin:
+    themes: themes
